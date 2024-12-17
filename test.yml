@@ -1,0 +1,9 @@
+- id: "MIT"
+     categories:
+     '- "include-in-notice-file" 
+     - "DC_car: green"
+     - "DC_mobile: green"
+     - "DC_frontend: green"
+     - "DC_backend: green"
+     - "DC_tools: green"
+     - "CARIAD_Rated"
