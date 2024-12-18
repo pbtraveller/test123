@@ -1,0 +1,150 @@
+Header
+
+categorizations:
+- id: "MIT-CMU"
+     categories:
+- id: "0BSD"
+     categories:
+- id: "BSD-4-Clause"
+     categories:
+- id: "bsd-2-clause-netbsd"
+    categories:
+     - "No SPDX for this license available"
+- id: "BSD-Source-Code"
+     categories:
+- id: "cmr-no"
+    categories:
+     - "No SPDX for this license available"
+- id: "BSD-2-Clause-Views"
+     categories:
+- id: "BSD-2-Clause"
+     categories:
+- id: "bsd-2-clause-freebsd"
+    categories:
+     - "No SPDX for this license available"
+- id: "BSD-3-Clause-Clear"
+     categories:
+- id: "BSD-3-Clause"
+     categories:
+- id: "BSD-3-Clause-HP"
+     categories:
+- id: "BSD-4.3RENO"
+     categories:
+- id: "BSD-3-Clause-Open-MPI"
+     categories:
+- id: "BSD-3-Clause-Sun"
+     categories:
+- id: "BSD-1-Clause"
+     categories:
+- id: "BlueOak-1.0.0"
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: "apache-exception-llvm"
+    categories:
+     - "No SPDX for this license available"
+- id: "FSFULLR"
+     categories:
+- id: "FSFULLRWD"
+     categories:
+- id: "FSFAP-no-warranty-disclaimer"
+     categories:
+- id: "FSFAP"
+     categories:
+- id: "HPND"
+     categories:
+- id: "HPND-Pbmplus"
+     categories:
+- id: "curl"
+     categories:
+- id: "Spencer-94"
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: "MIT-Wu"
+     categories:
+- id: "MIT-0"
+     categories:
+- id: "MIT-testregex"
+     categories:
+- id: "MIT-Modern-Variant"
+     categories:
+- id: "JSON"
+     categories:
+- id: "ISC"
+     categories:
+- id: "Intel"
+     categories:
+- id: "Libpng"
+     categories:
+- id: "BSD-3-Clause-LBNL"
+     categories:
+- id: "LicenseRef-scancode-mit-readme"
+     categories:
+- id: "HPND-Markus-Kuhn"
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: "MIT"
+     categories:
+     '- "include-in-notice-file" 
+     - "DC_car: green"
+     - "DC_mobile: green"
+     - "DC_frontend: green"
+     - "DC_backend: green"
+     - "DC_tools: green"
+     - "CARIAD_Rated"
+- id: "BSD-3-Clause-Modification"
+     categories:
+- id: "snprintf"
+     categories:
+- id: "lsof"
+     categories:
+- id: "OGC-1.0"
+     categories:
+- id: "Spencer-86"
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
+- id: "W3C"
+     categories:
+- id: "SunPro"
+     categories:
+- id: "ICU"
+     categories:
+- id: "X11-distribute-modifications-variant"
+     categories:
+- id: "Xnet"
+     categories:
+- id: "MIT-open-group"
+     categories:
+- id: "Zlib"
+     categories:
+- id: "Unicode-DFS-2016"
+     categories:
+- id: "XFree86-1.1"
+     categories:
+- id: "libtiff"
+     categories:
+- id: ""
+     categories:
+- id: ""
+     categories:
